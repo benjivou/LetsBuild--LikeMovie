@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">movielike</string>
+
+    <string name="itemPopularity">popularity : %1$s</string>
+    <string name="itemRate">rate  : %1$s</string>
+
+
+    <string name="mockTitle">title</string>
+    <string name="mockPoster">the movie poster</string>
+    <string name="mockDescription">description</string>
+
+    <string name="likedMovies">Liked movies</string>
+    <string name="popularMovies">Popular movies</string>
+    <string name="mostRatedMovies">Most rated movies</string>
+</resources>

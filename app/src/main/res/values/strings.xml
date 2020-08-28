@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">movielike</string>
+
+    <string name="itemPopularity">popularity : %1$s</string>
+    <string name="itemRate">rate  : %1$s</string>
+
+
+    <string name="mockTitle">title</string>
+    <string name="mockPoster">the movie poster</string>
+    <string name="mockDescription">description</string>
+
+    <string name="likedMovies">Liked movies</string>
+    <string name="popularMovies">Popular movies</string>
+    <string name="mostRatedMovies">Most rated movies</string>
+    <string name="likeButton">like Button</string>
+    <string name="likedSortByRated">sort by rated</string>
+    <string name="sortByPopular">sort by popular</string>
+
+    <string name="errorInternetVoidAnswer">It seems like the server has no data for this</string>
+    <string name="errorInternetServeError">%1$d : %2$s</string>
+
+    <string name="popularListTitle">Most popular movies</string>
+    <string name="ratedListTitle">Most rated movies</string>
+    <string name="likedListTitle">Unordered list of your favorite movies</string>
+    <string name="likedRatedListTitle">Your favorite movies ordered by rated</string>
+    <string name="likedPopularListTitle">Your favorite movies ordered by popularity</string>
+
+
+    <string name="permDescription">Something to describe the goal of this permission</string>
+    <string name="label">Whatever</string>
+    <string name="permisionName">com.example.movieapp.permission.ACCES_DATABASE</string>
+</resources>
